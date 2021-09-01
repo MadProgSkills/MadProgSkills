@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Evgeniy Sokol from Russia (Spb, Moscow);
+- 👀 I’m interested in Kotlin, KMM, Jetpack and Bycicle Ride;
+- 🌱 I’m currently learning how to merge Jepack Compose with Kotlin Multiplatform Mobile;
+- 💞️ I’m looking to Android Junior development job;
+- 📫 How to reach me: madprogskill@gmail.com;
